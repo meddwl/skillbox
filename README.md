@@ -1,5 +1,5 @@
 # SkillBox
 Tricks and Tips for Computational Chemistry using Python
 
-# Contents
+## Contents
 [Tutorial on QSAR modeling](https://github.com/meddwl/skillbox/tree/main/QSAR)
