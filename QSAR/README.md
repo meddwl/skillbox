@@ -1,6 +1,6 @@
 # Tutorial on QSAR modeling
 
-The tutorial on QSAR is [here](http://localhost:8889/notebooks/github/skillbox/QSAR/QSAR.ipynb)
+The tutorial on QSAR starts [here](http://localhost:8889/notebooks/github/skillbox/QSAR/QSAR.ipynb)
 
 ## Definition and Goals
 
