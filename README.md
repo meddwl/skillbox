@@ -1,2 +1,2 @@
-# skillbox
-Trick and Tip about Computational chemistry and Python
+# SkillBox
+Tricks and Tips for Computational Chemistry using Python
