@@ -1,5 +1,7 @@
 # Tutorial on QSAR modeling
 
+The tutorial on QSAR is [here](http://localhost:8889/notebooks/github/skillbox/QSAR/QSAR.ipynb)
+
 ## Definition and Goals
 
 QSAR stands for Quantitative Structure-Activity Relationship.
@@ -21,5 +23,3 @@ and time-consuming experimental testing.
 6. **Model validation**: The model is validated by comparing the predicted activity of new compounds to the experimental data.
 
 *Note that*: step vary depending on the complexity of the model, the type of data and the goal of the study
-
-To start tutorial [click here](http://localhost:8889/notebooks/github/skillbox/QSAR/QSAR.ipynb)
